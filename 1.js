@@ -9,5 +9,5 @@ function clone(){
 }
 
 function sortArray(){
-	arr.sort();
+	Array.sort();
 }

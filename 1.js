@@ -11,3 +11,6 @@ function clone(){
 function sortArray(){
 	Array.sort();
 }
+let a = function(){
+	
+}

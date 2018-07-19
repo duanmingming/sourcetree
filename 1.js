@@ -6,3 +6,7 @@ function test(){
 function clone(){
 	document.write('a');
 }
+
+function sortArray(){
+	
+}
